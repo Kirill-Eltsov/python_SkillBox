@@ -1,0 +1,8 @@
+{"time": "16:38:49", "level": "INFO", "message": "Сообщение"}
+{"time": "16:38:49", "level": "ERROR", "message": "Кавычка)\""}
+{"time": "16:38:49", "level": "DEBUG", "message": "Еще одно сообщение"}
+{"time": "16:40:03", "level": "INFO", "message": "Сообщение"}
+{"time": "16:40:03", "level": "ERROR", "message": "Кавычка)\""}
+{"time": "16:40:03", "level": "DEBUG", "message": "Еще одно сообщение"}
+{"time": "16:40:03", "level": "WARNING",  "message": "Кавычка)\""}
+{"time": "16:40:03", "level": "DEBUG", "message": "Еще одно сообщение"}
