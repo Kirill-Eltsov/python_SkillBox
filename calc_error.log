@@ -1,0 +1,2 @@
+ERROR | app | 2024-03-28 02:41:13,045 | 24 | Error while converting number 1
+ERROR | app | 2024-03-28 02:41:13,045 | 25 | could not convert string to float: 'a'

@@ -1,0 +1,12 @@
+<--""
+   Level WARNING
+   |
+   o<--"app"
+   |   Level INFO
+   |   Handler Stream <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
+   |
+   o<--"utils"
+       Level ERROR
+       Handler Stream <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)s | %(message)s' datefmt=None
